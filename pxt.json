@@ -1,5 +1,6 @@
 {
     "name": "Double-Jumper Remade Pre-Alpha 0.0.7",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*",
